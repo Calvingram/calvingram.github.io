@@ -7794,7 +7794,9 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-image: url("images/home_bg.jpg")
+  background-image: url("images/home_bg.jpg");
+  height: 100%;
+  width: auto;
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
 }
