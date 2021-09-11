@@ -7794,8 +7794,9 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-image: url("images/home_bg.jpg");
-  height: 100%;
+  background-image: url("");
+  background-size: cover;
+  height: 100vh;
   width: auto;
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
@@ -11445,7 +11446,7 @@ html {
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
   }
 }
 .portfolio .portfolio-item {
@@ -11496,4 +11497,10 @@ html {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.middle{
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
 }
