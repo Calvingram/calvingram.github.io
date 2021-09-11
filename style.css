@@ -7794,7 +7794,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-image: url("");
+  background-image: url("images/home_bg.jpg");
   background-size: cover;
   height: 100vh;
   width: auto;
@@ -7805,6 +7805,11 @@ textarea.form-control-lg {
 .bg-secondary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.bg-tertiary {
+  --bs-bg-opacity: 1;
+  background-color: #ecf0f1 !important;
 }
 
 .bg-success {
@@ -11517,8 +11522,4 @@ html {
   50% {
     transform: translateY(-14px);
   }
-}
-
-#bio {
-  
 }
