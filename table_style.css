@@ -3,6 +3,12 @@ table {
   font-size: large;
 }
 
+/* Calvin: No need for padding
 td {
   padding: 10px;
+}
+*/
+
+tr:last-child {
+ border-bottom: none;
 }
