@@ -1,38 +1,38 @@
 {
 	"history": [{
-		"Year": "2021"
+		"Year": "2021",
 		"Title": "Senior Graphic Designer",
 		"Company": "Joele Frank",
-		"Industry": "Public Relations",
+		"Industry": "Public Relations"
 	},
 	{
-		"Year": "2020"
+		"Year": "2020",
 		"Title": "Graphic Designer",
 		"Company": "LinkedIn",
-		"Industry": "Technology",
+		"Industry": "Technology"
 	},
 	{
-		"Year": "2019"
+		"Year": "2019",
 		"Title": "Production Designer",
 		"Company": "Apple",
-		"Industry": "Technology",
+		"Industry": "Technology"
 	},
 	{
-		"Year": "2017"
+		"Year": "2017",
 		"Title": "Marketing & Design Specialist",
 		"Company": "Independent Financial Group",
-		"Industry": "Finance",
+		"Industry": "Finance"
 	},
 	{
-		"Year": "2016"
+		"Year": "2016",
 		"Title": "Web Designer",
 		"Company": "Lawyers Title (Fidelity National Financial)",
-		"Industry": "Real Estate",
-	}
+		"Industry": "Real Estate"
+	},
 	{
-		"Year": "2014"
+		"Year": "2014",
 		"Title": "Marketing & Communications Associate",
 		"Company": "American Diabetes Association",
-		"Industry": "Non-profit",
+		"Industry": "Non-profit"
 	}]
 }
