@@ -1,27 +1,27 @@
 {
 	"restaurants": [{
-		"id": "0",
-		"name": "Kabana",
-		"cuisine": "Indian",
-		"city": "Berkeley",
-		"open": "12pm",
-		"close": "9pm"
+		"ID": "0",
+		"Name": "Kabana",
+		"Cuisine": "Indian",
+		"City": "Berkeley",
+		"Open": "12pm",
+		"Close": "9pm"
 	},
 	{
-		"id": "1",
-		"name": "Cheeseboard",
-		"cuisine": "Italian",
-		"city": "Berkeley",
-		"open": "11am",
-		"close": "8pm"
+		"ID": "1",
+		"Name": "Cheeseboard",
+		"Cuisine": "Italian",
+		"City": "Berkeley",
+		"Open": "11am",
+		"Close": "8pm"
 	},
 	{
-		"id": "2",
-		"name": "The Butcher's Son",
-		"cuisine": "American",
-		"city": "Berkeley",
-		"open": "9am",
-		"close": "3pm"
+		"ID": "2",
+		"Name": "The Butcher's Son",
+		"Cuisine": "American",
+		"City": "Berkeley",
+		"Open": "9am",
+		"Close": "3pm"
 	}]
-	
+
 }
