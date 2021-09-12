@@ -5,7 +5,8 @@ table {
 }
 
 td {
-  padding-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 table td {
@@ -14,7 +15,7 @@ table td {
 table tr:first-child td {
   border-top: 0;
 }
-table tr td:first-child {
+table tr td{
   border-left: 0;
 }
 table tr:last-child td {
